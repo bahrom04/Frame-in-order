@@ -1,7 +1,7 @@
-# Wednesday In Frames
-#### A Python Script That Uses Tweepy To Post 5 Frames From A 1 FPS Episode Of The Show "Wednesday" Every 30 Minutes.
+# Twitter Bot Frames In Order 
+#### This is best option if you have twitter v2 free access with 1500 tweet cap per day
 
-#### Special Thanks To github.com/pigeonburger For The Idea 🛐
+#### Special Thanks To github.com/pigeonburger
 
 # Twitter Account
-#### https://twitter.com/wednesdayframes
+#### https://twitter.com/patricbatemanuz
