@@ -1,0 +1,2 @@
+tweepy==4
+python==3.11 or at least support version
