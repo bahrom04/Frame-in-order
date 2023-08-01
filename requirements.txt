@@ -1,2 +1,3 @@
 tweepy==4
 python==3.11 or at least support version
+Download ffmpeg library on your computer to extract video to frames
