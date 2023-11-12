@@ -1,10 +1,10 @@
 # Every Frame In Order Bot(Twitter)
 <br>
-<h2>You might have seen Twitter Bots posts every 30 minutes every second of movie or TV series in order such as Spongebob,Breaking Bad and American Psyho</h2>
+<h2>Twitter Bots posts every 30 minutes every second of movie or TV series in order such as Spongebob,Breaking Bad and American Psyho</h2>
 
 ![image](https://github.com/Bahromoken/Sotqin-kinosidan-lavhalar/assets/116780481/f4c249e7-7059-4c0c-86f6-466f89cb46b6)
 
-<h2>If you want to create Twitter Bot like this, here to do list</h2>
+<h2>To do list</h2>
 <ul>
   <li><code>1.python3 version=>3.8 or later</code></li>
   <li><code>2.pip installed with python.</code> You have to use pip command to install packages</li>
@@ -21,7 +21,7 @@
 ![repo](https://github.com/Bahromoken/Sotqin-kinosidan-lavhalar/assets/116780481/148979af-f8be-4587-9963-7841102b4f76)
 
 <h2>Code</h2>
-<p>Open terminal again and download these two packages </p>
+<p>Download these two packages </p>
 <pre>
 pip install python-dotenv
 pip install tweepy
@@ -30,7 +30,7 @@ pip install tweepy
 <p>Put your <code>BEARER_TOKEN,CONSUMER_KEY,CONSUMER_SECRET,ACCES_TOKEN,ACCES_TOKEN_SECRET</code>,movie name,total number of frames</p>
 <p>These tokens you can get from <a href="https://developer.twitter.com/en">Twitter Developer Portal</a></p>
 <br>
-<p>That's it! You can run python file or use <code>Task scheduler</code> in Windows but default if you run this code it will run infinite and posts every 1800 seconds(30 minutes)</p>
+<p>That's it!. Use<code>Task scheduler</code> in Windows to automate your run time</p>
 <br>
 <p>Don't forget to give star and feel free to contact</p>
 <p>Special thank's to <a href="https://github.com/pigeonburger">Pigeonburger</a> for the idea</p>
