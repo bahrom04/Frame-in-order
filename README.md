@@ -1,5 +1,5 @@
 # Every Frame In Order Bot(Twitter)
-<h2>Twitter Bots posts every 30 minutes every second of movie or TV series in order such as Spongebob,Breaking Bad and American Psyho</h2>
+<h2>Twitter Bot posts every 30 minutes every second of movie or TV series in order such as Spongebob,Breaking Bad and American Psyho</h2>
 
 ![image](https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/assets/116780481/f4c249e7-7059-4c0c-86f6-466f89cb46b6)
 
