@@ -3,11 +3,10 @@
 
 ![image](https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/assets/116780481/f4c249e7-7059-4c0c-86f6-466f89cb46b6)
 
-<h2>To do list</h2>
+<h2>Requirements</h2>
 <ul>
   <li><code>1.python3 version=>3.8 or later</code></li>
-  <li><code>2.pip installed with python.</code> You have to use pip command to install packages</li>
-  <li><code>3.ffmpeg</code>You will install it from website here is tutorial for <a href="https://youtu.be/qSlxv68Xpkw">Windows</a> and <a href="https://youtu.be/mfTaTmc7Wjo">Ubuntu</a></li>
+  <li><code>3.ffmpeg</code>You will install it from website.Here is tutorial for <a href="https://youtu.be/qSlxv68Xpkw">Windows</a> and <a href="https://youtu.be/mfTaTmc7Wjo">Ubuntu</a></li>
  </ul>
 
  <h2>Ffmpeg</h2>
