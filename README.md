@@ -1,7 +1,7 @@
 # Every Frame In Order Bot(Twitter)
 <h2>Twitter Bots posts every 30 minutes every second of movie or TV series in order such as Spongebob,Breaking Bad and American Psyho</h2>
 
-![image](https://github.com/Bahromoken/Sotqin-kinosidan-lavhalar/assets/116780481/f4c249e7-7059-4c0c-86f6-466f89cb46b6)
+![image](https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/assets/116780481/f4c249e7-7059-4c0c-86f6-466f89cb46b6)
 
 <h2>To do list</h2>
 <ul>
@@ -17,7 +17,7 @@
 
 <p>And results should be like this</p>
 
-![repo](https://github.com/Bahromoken/Sotqin-kinosidan-lavhalar/assets/116780481/148979af-f8be-4587-9963-7841102b4f76)
+![repo](https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/assets/116780481/148979af-f8be-4587-9963-7841102b4f76)
 
 <h2>Code</h2>
 <p>Download these two packages </p>
@@ -25,7 +25,7 @@
 pip install python-dotenv
 pip install tweepy
 </pre>
-<p>Create python file for example <code>main.py</code> inside folder which you splitted frames and paste code which is written in<code>bot.py</code> in this <a href="https://github.com/Bahromoken/Sotqin-kinosidan-lavhalar/blob/main/bot.py">repository</a></p>
+<p>Create python file for example <code>main.py</code> inside folder which you splitted frames and paste code which is written in<code>bot.py</code> in this <a href="https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/blob/main/bot.py">repository</a></p>
 <p>Put your <code>BEARER_TOKEN,CONSUMER_KEY,CONSUMER_SECRET,ACCES_TOKEN,ACCES_TOKEN_SECRET</code>,movie name,total number of frames</p>
 <p>These tokens you can get from <a href="https://developer.twitter.com/en">Twitter Developer Portal</a></p>
 <br>
