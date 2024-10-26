@@ -19,7 +19,7 @@
 ![repo](https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/assets/116780481/148979af-f8be-4587-9963-7841102b4f76)
 
 <h2>Code</h2>
-<p>Download these two packages </p>
+<p>Download packages </p>
 <pre>
 pip install -r requirements.txt
 </pre>
