@@ -21,8 +21,7 @@
 <h2>Code</h2>
 <p>Download these two packages </p>
 <pre>
-pip install python-dotenv
-pip install tweepy
+pip install -r requirements.txt
 </pre>
 <p>Create python file for example <code>main.py</code> inside folder which you splitted frames and paste code which is written in<code>bot.py</code> in this <a href="https://github.com/bahrom04/Sotqin-kinosidan-lavhalar/blob/main/bot.py">repository</a></p>
 <p>Put your <code>BEARER_TOKEN,CONSUMER_KEY,CONSUMER_SECRET,ACCES_TOKEN,ACCES_TOKEN_SECRET</code>,movie name,total number of frames</p>
